@@ -3,9 +3,9 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/hamode hamode / jmthon)
+[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/hamode/ jmthon)
 
-## شكـرا لكـم 
+## شكـرا لكـم
 
 
 ## المطـورين 
